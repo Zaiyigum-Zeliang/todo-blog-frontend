@@ -358,8 +358,3 @@ git push
 ```
 
 * To make blog the homepage, rename `blog.html` → `index.html`
-
----
-
-You did it! Now go get that submission in like a frontend pro 👊🚀
- 
