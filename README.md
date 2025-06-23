@@ -321,6 +321,7 @@ https://Zaiyigum-Zeliang.github.io/todo-blog-frontend/
 
 **Project Link:**
 🔗 [https://Zaiyigum-Zeliang.github.io/todo-blog-frontend/](https://Zaiyigum-Zeliang.github.io/todo-blog-frontend/)
+🔗 [https://zaiyigum-zeliang.github.io/todo-blog-frontend/blog.html](https://zaiyigum-zeliang.github.io/todo-blog-frontend/blog.html)
 
 **Details:**
 This project includes:
